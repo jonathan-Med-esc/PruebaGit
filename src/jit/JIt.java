@@ -17,6 +17,14 @@ public class JIt {
         for (int i = 0; i < 10; i++) {
               System.out.println(" asdasdasd");
         }
+        
+        
+        System.out.println("asdasd");
+        
+        
+        while (true) {            
+            
+        }
       
     }
     
