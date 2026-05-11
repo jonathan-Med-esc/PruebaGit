@@ -14,7 +14,7 @@ public class JIt {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        for (int i = 0; i < 10; i++) {
+        for (int i = 0; i < 2; i++) {
               System.out.println(" asdasdasd");
         }
         
@@ -22,9 +22,7 @@ public class JIt {
         System.out.println("asdasd");
         
         
-        while (true) {            
-            
-        }
+        
       
     }
     

@@ -9,5 +9,5 @@ package jit;
  * @author jonathan.medesc
  */
 public class persona {
-    
+    private String nombre;
 }
